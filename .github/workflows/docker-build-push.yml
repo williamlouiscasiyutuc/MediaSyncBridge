@@ -39,8 +39,8 @@ jobs:
           context: .
           push: true
           tags: |
-            MrPandir/media-sync-bridge:latest
-            MrPandir/media-sync-bridge:${{ env.short_sha }}
+            mrpandir/media-sync-bridge:latest
+            mrpandir/media-sync-bridge:${{ env.short_sha }}
           cache-from: type=local,src=/tmp/.buildx-cache
           cache-to: type=local,dest=/tmp/.buildx-cache
 
@@ -55,5 +55,5 @@ jobs:
         with:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
-          repository: MrPandir/media-sync-bridge
+          repository: mrpandir/media-sync-bridge
           readme-filepath: ./README.md
