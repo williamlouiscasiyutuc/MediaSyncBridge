@@ -1,0 +1,4 @@
+.*
+_*
+requirements-dev.lock
+**/__pycache__
