@@ -101,19 +101,19 @@ The project is packaged as a Docker image for easy deployment.
 
 1. Build the image locally
    ```
-   docker build -t mediasyncbridge .
+   docker build -t media-sync-bridge .
    ```
 
 2. Or pull from Docker Hub
    ```
-   docker pull mrpandir/mediasyncbridge:latest
+   docker pull mrpandir/media-sync-bridge:latest
    ```
 
 3. Run the container, passing environment variables
    ```
    docker run -d -p 8000:8000 \
      --env-file .env \
-     mrpandir/mediasyncbridge
+     mrpandir/media-sync-bridge
    ```
 
 The service will be available at [http://localhost:8000](http://localhost:8000).
